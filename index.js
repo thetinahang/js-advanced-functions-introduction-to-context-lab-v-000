@@ -1,6 +1,7 @@
 // Your code here
 function createEmployeeRecord(array) {
-  return employeeRecord = {
+  employeeRecord = {
 
   };
+  return employeeRecord;
 }
